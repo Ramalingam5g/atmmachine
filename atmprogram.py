@@ -6,6 +6,7 @@ def bank_account():
     print("---------Welcome----------")
     card=input("Please insert your card")
 
+
 def choose_options():
     choose_option=int(input("1 DEPOSIT\n2 CASH WITHDRAW\n3 CHECK BALANCE\n4 CHANGE PIN  "   ))
     print("Choose your option")
